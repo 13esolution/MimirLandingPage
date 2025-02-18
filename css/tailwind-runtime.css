@@ -1641,6 +1641,10 @@ video {
   line-height: 1.75rem;
 }
 
+.tw-font-bold {
+  font-weight: 700;
+}
+
 .tw-font-medium {
   font-weight: 500;
 }
@@ -2301,11 +2305,6 @@ video {
     line-height: 2.5rem;
   }
 
-  .max-lg\:tw-text-base {
-    font-size: 1rem;
-    line-height: 1.5rem;
-  }
-
   .max-lg\:tw-text-sm {
     font-size: 0.875rem;
     line-height: 1.25rem;
@@ -2400,10 +2399,6 @@ video {
   .max-md\:tw-text-xl {
     font-size: 1.25rem;
     line-height: 1.75rem;
-  }
-
-  .max-md\:tw-leading-snug {
-    line-height: 1.375;
   }
 }
 
