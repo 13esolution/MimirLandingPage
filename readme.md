@@ -1,3 +1,6 @@
+## Current website hosting
+https://13esolution.github.io/MimirLandingPage/
+
 
 ## Usage
 
